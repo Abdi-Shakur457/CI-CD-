@@ -1,0 +1,18 @@
+# key value pairs 
+
+name : foo bar 
+age : 30 
+job : dev 
+
+# lists 
+
+fruits: 
+- apple 
+- bannana 
+
+# Nested elements
+
+address: 
+ street: 123 DW st 
+ city: London 
+ COUNTRY: UK 
