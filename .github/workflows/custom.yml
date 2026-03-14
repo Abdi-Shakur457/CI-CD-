@@ -14,6 +14,6 @@ jobs:
     
 
       - name: hello world custom action
-        uses: Abdishakur457/ci-cd-custom@main
+        uses: Abdi-Shakur457/cicd-custom@main
         with: 
           who-to-greet: CoderCo Team 
